@@ -1,1 +1,1 @@
-# dk
+test program for random function
